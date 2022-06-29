@@ -13,7 +13,7 @@ name                     : &name "Snigdha Sushil Mishra"
 description              : &description "I am a Masters student in the Dept of Computer Science at Rutgers University."
 url                      : https://snigdhas-mishra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "snigdhas-mishra/academicpages.github.io"
+repository               : "snigdhas-mishra/snigdhas-mishra.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &snigdhas-mishra
 facebook:
   username               :
   app_id                 :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/snigdha-s-mishra-56269723b/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Snigdha38202095"
+  twitter          : "snigdhabhyuday"
   vine             :
   weibo            :
   xing             :
