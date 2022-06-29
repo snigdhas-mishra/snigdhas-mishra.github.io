@@ -29,9 +29,11 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
 Full CV
 ======
 For complete CV please contact sm2600 at rutgers edu.
+
 <!--   
 Talks
 ======
