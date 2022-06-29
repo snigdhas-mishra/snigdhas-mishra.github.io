@@ -23,16 +23,16 @@ Skills
 * Languages: Python, Java, Javascript, C++
 * Packages: Numpy, Scikit-Learn, Pytorch, Autograd, Statsmodel
 
-Full CV
-======
-For complete CV please contact sm2600 at rutgers edu.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+Full CV
+======
+For complete CV please contact sm2600 at rutgers edu.
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -43,6 +43,6 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 
