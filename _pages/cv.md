@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Science, Mumbai University, 2016
-* M.S. in Computer Science, Department of Computer Science, 2022 - Ongoing
-  * Summer 2022: Research Assistant
-    * Rutgers Urban and Civil Informatics Lab, Rutgers University
-    * Supervisor: Professor Jim Samuel 
+* B.E. in Computer Science, Mumbai University, 2016.
+* M.S. in Computer Science, Department of Computer Science, 2022 - Ongoing.
+  * Summer 2022: Research Assistant.
+    * Rutgers Urban and Civil Informatics Lab, Rutgers University.
+    * Supervisor: Professor Jim Samuel.
 
 
 Skills
 ======
-* Languages: Python, Java, Javascript, C++
-* Packages: Numpy, Scikit-Learn, Pytorch, Autograd, Statsmodel
+* Languages: Python, Java, Javascript, C++.
+* Packages: Numpy, Scikit-Learn, Pytorch, Autograd, Statsmodel.
 
 
 Publications
@@ -32,7 +32,7 @@ Publications
   
 Full CV
 ======
-For complete CV please contact sm2600 at rutgers edu.
+For complete CV please contact me at sm2600 at rutgers edu.
 
 <!--   
 Talks
