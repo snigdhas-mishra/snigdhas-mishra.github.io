@@ -9,19 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Recent Experience
+======
+* Summer Technology Analyst at Morgan Stanley (AI & Knowledge Management Team). Summer 2023.
+* Research Assistant, Rutgers Urban and Civil Informatics Lab, Rutgers University. Summer 2022. 
+
+
 Education
 ======
-* B.E. in Computer Science, Mumbai University, 2016.
 * M.S. in Computer Science, Department of Computer Science, 2022 - Ongoing.
-  * Summer 2022: Research Assistant.
-    * Rutgers Urban and Civil Informatics Lab, Rutgers University.
-    * Supervisor: Professor Jim Samuel.
+* B.E. in Computer Science, Mumbai University, 2016.
 
 
 Skills
 ======
 * Languages: Python, Java, Javascript, C++.
-* Packages: Numpy, Scikit-Learn, Pytorch, Autograd, Statsmodel.
+* Packages: LangChain, Redis, FAISS, MongoDB, Numpy, Scikit-Learn, Pytorch, Autograd, Statsmodel.
 
 
 Publications
