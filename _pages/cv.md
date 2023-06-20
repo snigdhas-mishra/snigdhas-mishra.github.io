@@ -10,31 +10,31 @@ redirect_from:
 {% include base_path %}
 
 Recent Experience
-======
+-----
 * Summer Technology Analyst at Morgan Stanley (AI & Knowledge Management Team). Summer 2023.
 * Research Assistant, Rutgers Urban and Civil Informatics Lab, Rutgers University. Summer 2022. 
 
 
 Education
-======
+-----
 * M.S. in Computer Science, Department of Computer Science, 2022 - Ongoing.
 * B.E. in Computer Science, Mumbai University, 2016.
 
 
 Skills
-======
+-----
 * Languages: Python, Java, Javascript, C++.
 * Packages: LangChain, Redis, FAISS, MongoDB, Numpy, Scikit-Learn, Pytorch, Autograd, Statsmodel.
 
 
 Publications
-======
+-----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Full CV
-======
+-----
 For complete CV please contact me at sm2600 at rutgers edu.
 
 <!--   
