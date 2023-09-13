@@ -11,7 +11,7 @@ redirect_from:
 
 Recent Updates
 -----
-* Summer 2023 : Our paper "Towards Effective Data Poisoning for Imbalanced Classification" was accepted at [AdvML Frontiers WorkShop, ICML 2023](https://advml-frontier.github.io/). 
+* Summer 2023 : Our paper "[Towards Effective Data Poisoning for Imbalanced Classification](https://icml.cc/virtual/2023/29590)" was accepted at [AdvML Frontiers WorkShop, ICML 2023](https://advml-frontier.github.io/). 
 * Summer 2023 : Summer Internship at Morgan Stanley (AI & Knowledge Management Team, WMT Division).
 
 
