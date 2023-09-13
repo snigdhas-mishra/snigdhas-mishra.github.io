@@ -5,4 +5,7 @@ venue: 'Workshop on New Frontiers in Adversarial Machine Learning, International
 citation: 'Mishra S, He H, Wang H. “Towards Effective Data Poisoning for Imbalanced Classification.” AdvML Frontiers Workshop, International Conference of Machine Learning (ICML) 2023.'
 ---
 
-[Access Paper here](https://icml.cc/virtual/2023/29590)
+[ICML Project Page](https://icml.cc/virtual/2023/29590)
+
+
+[OpenReview Link](https://openreview.net/forum?id=k7xYHWG21O)
